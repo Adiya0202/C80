@@ -1,0 +1,7 @@
+body{
+    background:linear-gradient(#EA80FC 0%,#FF80AB 100%);
+    text-align:center;
+}
+#sort_button{
+    display:none;
+}
